@@ -6,3 +6,4 @@
 
   [plugins.inputs]
   cloudName = "[dnwrwldkt]"
+  deliveryType = "upload"
