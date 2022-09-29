@@ -1,5 +1,5 @@
 import React from "react";
-import styles from "../../styles/content.module.css";
+//import styles from "./content.module.css";
 import Author from "./Author";
 import Copyright from "./Copyright";
 import Date from "./Date";
@@ -61,7 +61,7 @@ export default function PostLayout({
       />
       <div className={"container"}>
         <article>
-          <header>
+          
             <h1>{title}</h1>
             <div className={"metadata"}>
               <div>
@@ -71,8 +71,8 @@ export default function PostLayout({
                 <Author author={getAuthor(author)} />
               </div>
             </div>
-          </header>
-          <div className={styles.content}>{children}</div>
+          
+          <div >{children}</div>
           <ul className={"tag-list"}>
             {tags.map((it, i) => (
               <li key={i}>
