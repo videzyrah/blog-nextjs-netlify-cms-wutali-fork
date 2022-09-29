@@ -1,7 +1,7 @@
 {
   "base_url": "https://wutali-nextjs-netlify-blog.netlify.app",
-  "site_title": "Next.js Netlify Blog",
-  "site_description": "Next.js blog template for Netlify",
+  "site_title": "Meals For Myself",
+  "site_description": "Recipes, reviews, and research",
   "site_keywords": [
     
     {
@@ -16,5 +16,5 @@
   ],
   "posts_per_page": 20,
   "twitter_account": "@netlifycms",
-  "github_account": "wutali"
+  "github_account": "videzyrah/blog-nextjs-netlify-cms-wutali-fork"
 }

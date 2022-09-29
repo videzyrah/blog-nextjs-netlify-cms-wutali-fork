@@ -6,6 +6,7 @@ import config from "../lib/config";
 export function SocialList({}) {
   return (
     <div>
+      {/*
       <a
         title="Twitter"
         href={`https://twitter.com/${config.twitter_account}`}
@@ -14,6 +15,7 @@ export function SocialList({}) {
       >
         <Twitter width={24} height={24} fill={"#222"} />
       </a>
+      */}
       <a
         title="GitHub"
         href={`https://github.com/${config.github_account}`}
