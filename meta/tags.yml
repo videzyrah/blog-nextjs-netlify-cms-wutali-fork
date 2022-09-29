@@ -1,4 +1,6 @@
 tags:
+  - slug: breakfast
+    name: breakfast
   - slug: vegetarian
     name: vegetarian
   - slug: "Mexican "
@@ -19,25 +21,23 @@ tags:
     name: youtube
   - slug: all-Aldi
     name: all-Aldi
+  - slug: soup-and-stew
+    name: soup-and-stew
+  - slug: sandwich
+    name: sandwich
+  - slug: dessert
+    name: dessert
+  - slug: pie
+    name: pie
   - slug: document
     name: document
-  - slug: license
-    name: license
   - slug: mock
     name: mock
+  - slug: license
+    name: license
   - slug: markdown
     name: markdown
   - slug: style
     name: style
   - slug: mdx
     name: mdx
-  - slug: pie
-    name: pie
-  - slug: dessert
-    name: dessert
-  - slug: breakfast
-    name: breakfast
-  - slug: sandwich
-    name: sandwich
-  - slug: soup-and-stew
-    name: soup-and-stew
