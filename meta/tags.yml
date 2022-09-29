@@ -1,20 +1,16 @@
 tags:
-  - slug: document
-    name: document
-  - slug: mock
-    name: mock
-  - slug: style
-    name: style
-  - slug: license
-    name: license
-  - slug: mdx
-    name: mdx
-  - slug: markdown
-    name: markdown
   - slug: vegetarian
     name: vegetarian
+  - slug: Italian
+    name: Italian
+  - slug: "Mexican "
+    name: Mexican
   - slug: crockpot
     name: crockpot
+  - slug: pantry-meals
+    name: pantry-meals
+  - slug: pasta
+    name: pasta
   - slug: stirfry
     name: stirfry
   - slug: kosher
@@ -23,7 +19,15 @@ tags:
     name: youtube
   - slug: all-Aldi
     name: all-Aldi
-  - slug: pasta
-    name: pasta
-  - slug: Italian
-    name: Italian
+  - slug: document
+    name: document
+  - slug: license
+    name: license
+  - slug: mock
+    name: mock
+  - slug: markdown
+    name: markdown
+  - slug: style
+    name: style
+  - slug: mdx
+    name: mdx
