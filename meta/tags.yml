@@ -1,10 +1,12 @@
 tags:
+  - slug: breakfast
+    name: breakfast
   - slug: vegetarian
     name: vegetarian
-  - slug: Italian
-    name: Italian
   - slug: "Mexican "
     name: Mexican
+  - slug: Italian
+    name: Italian
   - slug: crockpot
     name: crockpot
   - slug: pantry-meals
@@ -19,12 +21,20 @@ tags:
     name: youtube
   - slug: all-Aldi
     name: all-Aldi
+  - slug: soup-and-stew
+    name: soup-and-stew
+  - slug: sandwich
+    name: sandwich
+  - slug: dessert
+    name: dessert
+  - slug: pie
+    name: pie
   - slug: document
     name: document
-  - slug: license
-    name: license
   - slug: mock
     name: mock
+  - slug: license
+    name: license
   - slug: markdown
     name: markdown
   - slug: style
