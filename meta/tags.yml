@@ -1,34 +1,38 @@
 tags:
-  - slug: breakfast
-    name: breakfast
+  - slug: all-Aldi
+    name: all-Aldi
+  - slug: pantry-meals
+    name: pantry-meals
+  - slug: toaster-oven
+    name: toaster oven
+  - slug: instant-pot
+    name: Instant Pot
+  - slug: crockpot
+    name: crockpot
   - slug: vegetarian
     name: vegetarian
+  - slug: kosher
+    name: kosher
+  - slug: sandwich
+    name: sandwich
   - slug: "Mexican "
     name: Mexican
   - slug: Italian
     name: Italian
-  - slug: crockpot
-    name: crockpot
-  - slug: pantry-meals
-    name: pantry-meals
-  - slug: pasta
-    name: pasta
   - slug: stirfry
     name: stirfry
-  - slug: kosher
-    name: kosher
-  - slug: youtube
-    name: youtube
-  - slug: all-Aldi
-    name: all-Aldi
   - slug: soup-and-stew
     name: soup-and-stew
-  - slug: sandwich
-    name: sandwich
+  - slug: pasta
+    name: pasta
+  - slug: breakfast
+    name: breakfast
   - slug: dessert
     name: dessert
   - slug: pie
     name: pie
+  - slug: youtube
+    name: youtube
   - slug: document
     name: document
   - slug: mock
@@ -41,7 +45,3 @@ tags:
     name: style
   - slug: mdx
     name: mdx
-  - slug: instant-pot
-    name: Instant Pot
-  - slug: toaster-oven
-    name: toaster oven
