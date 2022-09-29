@@ -1,3 +1,8 @@
 [build]
   publish = "dist"
   command = "npm run export"
+[[plugins]]
+  package = "netlify-plugin-cloudinary"
+
+  [plugins.inputs]
+  cloudName = "[dnwrwldkt]"
