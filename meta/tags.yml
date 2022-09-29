@@ -1,10 +1,10 @@
 tags:
   - slug: vegetarian
     name: vegetarian
-  - slug: Italian
-    name: Italian
   - slug: "Mexican "
     name: Mexican
+  - slug: Italian
+    name: Italian
   - slug: crockpot
     name: crockpot
   - slug: pantry-meals
@@ -31,3 +31,13 @@ tags:
     name: style
   - slug: mdx
     name: mdx
+  - slug: pie
+    name: pie
+  - slug: dessert
+    name: dessert
+  - slug: breakfast
+    name: breakfast
+  - slug: sandwich
+    name: sandwich
+  - slug: soup-and-stew
+    name: soup-and-stew
