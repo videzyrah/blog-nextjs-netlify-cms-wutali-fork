@@ -17,12 +17,13 @@ export default function PostItem({ post }: Props) {
         <style jsx>
           {`
             a {
-              color: #222;
+              color: #26d0eb;
               display: inline-block;
             }
             h2 {
               margin: 0;
               font-weight: 500;
+              color: #26eba9;
             }
           `}
         </style>
@@ -31,6 +32,13 @@ export default function PostItem({ post }: Props) {
     <p>{post.tags.map((tag)=> (
                 <a href ={'posts/tags/' + tag} key={tag}>
                    {'#'}{tag}{' '}
+                   <style jsx>
+                    {`
+                    a {
+                     color: #26d0eb;
+                     } 
+                    `}
+                    </style>
                 </a>
               ))}</p>
     </> 

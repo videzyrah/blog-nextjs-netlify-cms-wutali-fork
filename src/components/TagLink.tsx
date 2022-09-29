@@ -7,7 +7,16 @@ type Props = {
 export default function Tag({ tag }: Props) {
   return (
     <Link href={"/posts/tags/[[...slug]]"} as={`/posts/tags/${tag.slug}`}>
-      <a>{"#" + tag.name}</a>
+      <a>{"#" + tag.name}
+      <style jsx>
+          {`
+           a {
+          color: #26d0eb;
+          } 
+          `}
+      </style>
+      </a>
+      
     </Link>
   );
 }
