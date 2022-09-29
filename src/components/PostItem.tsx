@@ -8,10 +8,12 @@ type Props = {
 };
 export default function PostItem({ post }: Props) {
   return (
+    <>
     <Link href={"/posts/" + post.slug}>
       <a>
         <Date date={parseISO(post.date)} />
         <h2>{post.title}</h2>
+        
         <style jsx>
           {`
             a {
@@ -26,5 +28,11 @@ export default function PostItem({ post }: Props) {
         </style>
       </a>
     </Link>
+    <p>{post.tags.map((tag)=> (
+                <a href ={'posts/tags/' + tag} key={tag}>
+                   {'#'}{tag}{' '}
+                </a>
+              ))}</p>
+    </> 
   );
 }

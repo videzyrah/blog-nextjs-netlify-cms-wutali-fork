@@ -11,3 +11,19 @@ tags:
     name: mdx
   - slug: markdown
     name: markdown
+  - slug: vegetarian
+    name: vegetarian
+  - slug: crockpot
+    name: crockpot
+  - slug: stirfry
+    name: stirfry
+  - slug: kosher
+    name: kosher
+  - slug: youtube
+    name: youtube
+  - slug: all-Aldi
+    name: all-Aldi
+  - slug: pasta
+    name: pasta
+  - slug: Italian
+    name: Italian
