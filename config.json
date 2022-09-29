@@ -3,11 +3,18 @@
   "site_title": "Next.js Netlify Blog",
   "site_description": "Next.js blog template for Netlify",
   "site_keywords": [
-    "Instant pot",
-    "Aldi recipes",
-    "Toaster oven"
+    
+    {
+      "keyword": "Instant Pot"
+    },
+    {
+      "keyword": "Toaster Oven Recipes"
+    },
+    {
+      "keyword": "Meals For Myself"
+    }
   ],
-  "posts_per_page": 5,
+  "posts_per_page": 20,
   "twitter_account": "@netlifycms",
   "github_account": "wutali"
 }
