@@ -19,6 +19,8 @@ tags:
     name: kosher
   - slug: youtube
     name: youtube
+  - slug: toaster-oven
+    name: toaster oven
   - slug: all-Aldi
     name: all-Aldi
   - slug: soup-and-stew
@@ -27,6 +29,8 @@ tags:
     name: sandwich
   - slug: dessert
     name: dessert
+  - slug: instant-pot
+    name: Instant Pot
   - slug: pie
     name: pie
   - slug: document
@@ -41,7 +45,3 @@ tags:
     name: style
   - slug: mdx
     name: mdx
-  - slug: instant-pot
-    name: Instant Pot
-  - slug: toaster-oven
-    name: toaster oven
