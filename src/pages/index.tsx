@@ -13,11 +13,12 @@ export default function Index() {
       <div className="container">
         <div>
           <h1>
-            Greg's contrarian lifestyle blog: recipes, reviews, & research.<span className="fancy">.</span>
+          <span className="fancy"> Meals for Myself: recipes, reviews, & research.</span>
           </h1>
           <span className="handle"></span>
-          <h2>Built from boilerplate nextjs-netlify-blog-template on github </h2>
-          <SocialList />
+          <h2>A blog dedicated to budget conscious solutions to meal planning for those of us shopping and cooking for one. </h2>
+          <a href = "/posts">Go to blog</a>
+          {/*<SocialList >*/}
         </div>
       </div>
       <style jsx>{`
@@ -27,6 +28,8 @@ export default function Index() {
           justify-content: center;
           flex: 1 1 auto;
           padding: 0 1.5rem;
+          width:100px; 
+          word-wrap:break-word;
         }
         h1 {
           font-size: 2.5rem;
